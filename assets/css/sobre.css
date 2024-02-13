@@ -1,0 +1,27 @@
+.sobre{
+
+    margin-top: 16px;
+ }
+
+.sobre__title{
+
+    text-align: center;
+    font-family: 'Pacifico';
+    color: #8d0606;
+    font-weight: 400;
+    font-size: 3.1875rem;
+    padding-top: 16px;
+    padding-bottom: 16px;
+   
+
+}
+
+.sobre__subtitle{
+    text-align: center;
+    color: #8c8888;
+    font-size: 1.75rem;
+    font-family: 'Roboto';
+    width: 0 auto;
+    padding-bottom: 20px;
+
+}

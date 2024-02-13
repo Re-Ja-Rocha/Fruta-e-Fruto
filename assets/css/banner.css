@@ -1,0 +1,28 @@
+
+.banner{
+    text-align: center;
+}
+
+
+.banner__title{
+    font-family: 'Pacifico';
+    color: #fff;
+    font-size: 4.5rem;
+    font-weight: 400;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.75);
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    text-align: center;
+    margin:  auto;
+
+
+}
+.banner__bg{
+    width: 100%;
+    background-image: url('../img/banner.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50vh;
+}
